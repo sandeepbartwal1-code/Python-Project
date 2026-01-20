@@ -21,6 +21,7 @@ Seaborn – Advanced visualizations
 **Project Workflow**
 
 1️⃣ Data Understanding & Cleaning
+
 2️⃣ Exploratory Data Analysis (EDA)
 Descriptive statistics for key numerical features
 Distribution analysis by:
